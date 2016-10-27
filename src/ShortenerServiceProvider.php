@@ -38,7 +38,7 @@ class ShortenerServiceProvider extends ServiceProvider
         );
 
         $this->app->singleton('shortener', function ($app) {
-            return (new ShortenerManager($app));
+            return new ShortenerManager($app);
         });
 
         $this->app->singleton('shortener.store', function ($app) {
