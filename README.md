@@ -1,4 +1,4 @@
-# Facebook Anonymous Publisher shortener
+# Facebook Anonymous Publisher Shortener
 
 [![Build Status](https://travis-ci.org/Facebook-Anonymous-Publisher/shortener.svg?branch=master)](https://travis-ci.org/Facebook-Anonymous-Publisher/shortener)
 [![Test Coverage](https://codeclimate.com/github/Facebook-Anonymous-Publisher/shortener/badges/coverage.svg)](https://codeclimate.com/github/Facebook-Anonymous-Publisher/shortener/coverage)
@@ -7,8 +7,6 @@
 [![Latest Stable Version](https://poser.pugx.org/facebook-anonymous-publisher/shortener/v/stable?format=flat-square)](https://packagist.org/packages/facebook-anonymous-publisher/shortener)
 [![Total Downloads](https://poser.pugx.org/facebook-anonymous-publisher/shortener/downloads?format=flat-square)](https://packagist.org/packages/facebook-anonymous-publisher/shortener)
 [![License](https://poser.pugx.org/facebook-anonymous-publisher/shortener/license?format=flat-square)](https://packagist.org/packages/facebook-anonymous-publisher/shortener)
-
-This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.
 
 ## Install
 
